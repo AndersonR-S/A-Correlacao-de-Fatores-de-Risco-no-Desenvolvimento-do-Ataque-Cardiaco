@@ -1,19 +1,32 @@
 # A Correlação de Fatores de Risco no Desenvolvimento do Ataque Cardíaco
 
-## Objetivo
+## 📂 Estrutura do Repositório
+
+- [`article/`](https://github.com/mairaallacerda/AEDSII-Trabalho-Final-Grafos/blob/main/article/Artigo_Final_AEDS_II__09_02_25.pdf): Contém o artigo científico em formato em PDF.
+- `src/`: Scripts Python utilizados para modelagem e análise dos grafos.
+- `data/`: Arquivos CSV baixados e modelados
+- `img/`: Imagens e gráficos gerados a partir dos experimentos.
+
+## 📄 Objetivo
 O trabalho consiste na aplicação de grafos em uma situação específica, sendo o problema principal *ataque cardíaco*. O objetivo é descobrir quais conjuntos de fatores de risco podem influenciar negativamente o desenvolvimento de ataques cardíacos.
 
 A ideia geral da discussão é apresentada no artigo: <a href="A_Correlação_de_Fatores_de_Risco_no_Desenvolvimento_do_Ataque_Cardíaco.pdf">A Correlação de Fatores de Risco no Desenvolvimento do Ataque Cardíaco</a>.
 
-## Compilação e Execução
+## ⚙️ Compilação e Execução
 
 Para executar o algoritmo de modelagem, é necessário instalar as seguintes bibliotecas em Python: 
 
-    pandas 
-    os
-    kagglehub
-    seaborn 
-    matplotlib
+    pandas -> Manipulação de dados 
+    os -> Verificação de pasta
+    kagglehub -> Download de arquivos
+    seaborn -> Geração de tabela
+    matplotlib -> Geração de imagem
+
+Para instalar todas as dependências, utilize o seguinte comando:  
+
+```bash
+pip install pandas os kagglehub matplotlib seaborn
+```
 
 Após instalar as bibliotecas, basta digitar o comando abaixo no terminal, estando na pasta principal:
 
