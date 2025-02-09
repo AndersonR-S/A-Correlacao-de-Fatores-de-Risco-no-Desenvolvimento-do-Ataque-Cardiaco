@@ -2,7 +2,7 @@
 
 ## 📂 Estrutura do Repositório
 
-- [`article/`](https://github.com/mairaallacerda/AEDSII-Trabalho-Final-Grafos/blob/main/article/Artigo_Final_AEDS_II__09_02_25.pdf): Contém o artigo científico em formato em PDF.
+- [`article/`](https://github.com/AndersonR-S/A-Correlacao-de-Fatores-de-Risco-no-Desenvolvimento-do-Ataque-Cardiaco/blob/f984e1b716b09062a667492fd55b4f9f232a1e01/article/A_Correla%C3%A7%C3%A3o_de_Fatores_de_Risco_no_Desenvolvimento_do_Ataque_Card%C3%ADaco.pdf): Contém o artigo científico em formato em PDF.
 - `src/`: Scripts Python utilizados para modelagem e análise dos grafos.
 - `data/`: Arquivos CSV baixados e modelados
 - `img/`: Imagens e gráficos gerados a partir dos experimentos.
@@ -10,7 +10,7 @@
 ## 📄 Objetivo
 O trabalho consiste na aplicação de grafos em uma situação específica, sendo o problema principal *ataque cardíaco*. O objetivo é descobrir quais conjuntos de fatores de risco podem influenciar negativamente o desenvolvimento de ataques cardíacos.
 
-A ideia geral da discussão é apresentada no artigo: <a href="A_Correlação_de_Fatores_de_Risco_no_Desenvolvimento_do_Ataque_Cardíaco.pdf">A Correlação de Fatores de Risco no Desenvolvimento do Ataque Cardíaco</a>.
+A ideia geral da discussão é apresentada no artigo: <a href= "https://github.com/AndersonR-S/A-Correlacao-de-Fatores-de-Risco-no-Desenvolvimento-do-Ataque-Cardiaco/blob/f984e1b716b09062a667492fd55b4f9f232a1e01/article/A_Correla%C3%A7%C3%A3o_de_Fatores_de_Risco_no_Desenvolvimento_do_Ataque_Card%C3%ADaco.pdf">A Correlação de Fatores de Risco no Desenvolvimento do Ataque Cardíaco</a>.
 
 ## ⚙️ Compilação e Execução
 
